@@ -1,0 +1,63 @@
+ul {
+    background-color: chocolate;
+}
+
+
+
+.parrafo {
+    color: blueviolet;
+}
+
+.texto {
+    color: aqua;
+}
+
+.noticia {
+    color: brown;
+}
+
+#titulo {
+    color: darkblue;
+}
+
+ul {
+    color: blue;
+}
+
+.Aceite {
+    color: chartreuse;
+}
+
+.Ingredientes {
+    background-color: aqua;
+}
+
+
+
+
+
+/* e cajas */
+
+#ecajas {
+    margin-bottom: 200px;
+}
+
+
+.box {
+    width: 100px;
+    height:100px;
+    background-color: blue;
+    border:solid 2px #ffff00;
+    margin: 10px 10px 10px 300px;
+    border-radius: 13px;
+}
+
+.box6 {
+    width: 100px;
+    height:100px;
+    background-color:crimson;
+    border:solid 2px #ffff00;
+    margin: 10px 10px 10px 300px;
+    border-radius: 13px;
+}
+
